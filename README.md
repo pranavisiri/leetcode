@@ -2,7 +2,6 @@
 ## Programs
 - Python
 - Java
-- C++
-- C
+
 
  
